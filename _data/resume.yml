@@ -25,11 +25,11 @@ main: #简历主要内容，
     sub: 博士研究生
     detail: 西方经济学（微观经济理论）
   - title: 厦门理工学院
-    duration: "2012年9月 - 2016年6月（预计）"
+    duration: "2012年9月 - 2016年6月"
     sub: 理学学士
     detail: 数学与应用数学（金融方向）
     
-- type: skills
+- type: 助教经历
   # name: "技能"
   content:
   - title: 编程语言
@@ -40,7 +40,7 @@ main: #简历主要内容，
   - title: Skill Group
     summary: Consectetur, Adipiscing, Elit
 
-- type: experience
+- type: 论文发表
   name: 经验
   content:
   - title: 职位

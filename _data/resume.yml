@@ -41,9 +41,9 @@ main: #简历主要内容，
     summary: Consectetur, Adipiscing, Elit
 
 - type: 论文发表
-  name: Li, Quan, and Kang Rong. "Full disclosure in competitive Bayesian persuasion." International Journal of Game Theory (2023): 1-21. 
+  name:  
   content:
-  - title: 
+  - title: Li, Quan, and Kang Rong. "Full disclosure in competitive Bayesian persuasion." International Journal of Game Theory (2023): 1-21.
     sub: 
     duration:
     tags:

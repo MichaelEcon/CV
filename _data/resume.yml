@@ -41,11 +41,11 @@ main: #简历主要内容，
     summary: Consectetur, Adipiscing, Elit
 
 - type: 论文发表
-  name: 经验
+  name: 
   content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
+  - title: 
+    sub: 
+    duration:
     tags:
     - 标签
     summary: 职务或者工作总结(自动折叠)

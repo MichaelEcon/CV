@@ -52,7 +52,7 @@ main: #简历主要内容，
     detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
     # open: open
     #可以设置open默认展开
-  - title: Job Title
+  - title: Li, Quan, and Kang Rong. Full disclosure in competitive Bayesian persuasion. International Journal of Game Theory (2023): 1-21.
     sub: Your 2nd, Inc.  
     duration: Apr 2013 - Mar 2016
     tags: 

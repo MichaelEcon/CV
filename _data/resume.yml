@@ -43,7 +43,7 @@ main: #简历主要内容，
 - type: 论文发表
   name:  
   content:
-  - title: Li, Quan, and Kang Rong. "Full disclosure in competitive Bayesian persuasion." International Journal of Game Theory (2023): 1-21.
+  - title: Li, Quan, and Kang Rong. Full disclosure in competitive Bayesian persuasion. International Journal of Game Theory (2023): 1-21.
     sub: 
     duration:
     tags:
